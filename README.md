@@ -6,7 +6,7 @@ Projeto utilizando Giphy Developers API.
 
 Na página inicial aparecem os top 20 gifs dos trendings do momento. Você também pode pesquisar (de preferência em inglês) qualquer assunto para achar gifs e compartilhar eles. No caso da pesquisa, carregarão 19 gifs e o 20° será um botão para a próxima página. 
 
-Clicando no gif, abrirá uma página só com o gif, para caso seja maior que o tamanho quadrado predefinido, e com a opção de compartilhar (também pode ser compartilhado clicando e segurando no gif desejado na página inicial).
+Clicando no gif desejado, abrirá uma página só com ele, para caso seja maior que o tamanho quadrado predefinido, e com a opção de compartilhar (também pode ser compartilhado clicando e segurando no gif desejado na página inicial).
 
 ## Tecnologias
 
